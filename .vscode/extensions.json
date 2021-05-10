@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "cschleiden.vscode-github-actions",
+        "ms-azuretools.vscode-docker"
+    ]
+}
